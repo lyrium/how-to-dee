@@ -1,6 +1,6 @@
 ## What's all this then?
 #### Let me present to you... me. 
-This is a readme, a lá [How to Rands](http://randsinrepose.com/archives/how-to-rands/). It's not a _How To Work With Me_ readme, because Dee-at-$formerCompany is going to be very different from Dee-at-$yourCompany. It's not a manager readme either ([here's why](https://twitter.com/EricaJoy/status/994324414668849153)).  I just got here. I don't know anything. 
+This is a readme, a lá [How to Rands](http://randsinrepose.com/archives/how-to-rands/). It's not a _How To Work With Me_ readme, because Dee-at-$formerCompany is going to be very different from Dee-at-$yourCompany. It's not a manager readme either ([here's why](https://twitter.com/EricaJoy/status/994324414668849153)). Also, I just got here. I don't know anything. 
 
 Instead, this document is intended to be a guide into how I think and work, my values, and my idiosyncrasies. This is a document I wish I'd had whenever I joined a new company. Humans are notoriously complicated, I'm tired half the time, and being explicit is a shortcut I need.
 
