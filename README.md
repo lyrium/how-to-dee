@@ -20,7 +20,6 @@ Horizontally, I have broad (but shallower) experience with video production, PR,
 ## North Star Principles 
 * **I believe in first principles reasoning.** To quote Aristotle: _In every systematic inquiry (methodos) where there are first principles, or causes, or elements, knowledge and science result from acquiring knowledge of these; for we think we know something just in case we acquire knowledge of the primary causes, the primary first principles, all the way to the elements._
 * **I don't know everything, and that's great.** I know my [Circle of Competence](https://fs.blog/2013/12/mental-model-circle-of-competence/), and I am actively working on expanding it while also staying inside its perimeter on mission-critical projects. This is otherwise known as the [Growth Mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/), which I try to apply to everything I do.
-* 
  
 ## Success Conditions 
 * **I read every email I receive**. If I don't reply, it's usually because I have nothing to add. If we have a meeting and you send me something at least a few hours beforehand, I will read it.
