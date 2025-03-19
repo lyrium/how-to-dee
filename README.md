@@ -9,7 +9,7 @@ This is a living document. I update it as I discover new things about my working
 **If I applied to a job at your company:** Take this as a verbose cover letter. My resumé tells you what I can do; this will tell you who I am. That said, this document is in flux, and changes depending on the company I'm at.
 
 ## As a human...
-I was born to a Thai mother and a Japanese/Malay father. I grew up in Singapore, spending summers in balmy Chiang Rai. I'm a sci-fi geek, video game player, middling writerer, hobbyist developer, and I barbecue more food than strictly necessary. 
+I was born to a Thai mother and a Japanese/Malay father. I grew up in Singapore, spending summers in balmy Chiang Rai. I'm a sci-fi geek, video game player, middling writer, hobbyist developer, and I barbecue more food than strictly necessary. 
 
 I never went to college, so everything I know is thanks to Stack Overflow, Reddit, and countless brilliant mentors who give their time and energy helping.
 
